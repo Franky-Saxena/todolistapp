@@ -21,9 +21,9 @@ html {
 
 @media (min-height: 600px) {
   .main-div {
-    height: 1000px;
-    width: 500px;
-    background: yellowgreen;
+    height: 851vh;
+    width: 393vw;
+    background: pink;
   }
 }
 
