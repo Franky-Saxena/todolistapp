@@ -21,8 +21,8 @@ html {
 
 @media (min-height: 600px) {
   .main-div {
-    height: 10px;
-    width: 10px;
+    height: 800px;
+    width: 400px;
     background: skyblue;
   }
 }
