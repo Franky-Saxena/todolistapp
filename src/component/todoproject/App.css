@@ -13,7 +13,7 @@ html {
 
 .main-div {
   min-height: 100vh;
-  background: #060822;
+  background: red;/*#060822*/
   display: flex;
   justify-content: center;
   /* align-items: center; */
@@ -21,8 +21,8 @@ html {
 
 @media (max-width: 384px) {
   .main-div {
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
   }
 }
 
