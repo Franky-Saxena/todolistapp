@@ -13,7 +13,7 @@ html {
 
 .main-div {
   min-height: 100vh;
-  background: #060822;/*#060822*/
+  background: red;/*#060822*/
   display: flex;
   justify-content: center;
   /* align-items: center; */
@@ -23,6 +23,7 @@ html {
   .main-div {
     height: 10px;
     width: 383px;
+    background: skyblue;
   }
 }
 
