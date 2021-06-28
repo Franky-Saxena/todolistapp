@@ -21,9 +21,10 @@ html {
 
 @media (min-height: 600px) {
   .main-div {
+    padding-right: 2px;
     height: 851px;
     width: 405px;
-    background: pink;
+    background: skyblue;
   }
 }
 
