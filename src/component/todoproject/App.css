@@ -19,6 +19,13 @@ html {
   /* align-items: center; */
 }
 
+@media (max-width: 383px) {
+  .main-div {
+    height: 100vh;
+    width: 100vw;
+  }
+}
+
 .child-div {
   text-align: center;
   margin-top: 12rem;
