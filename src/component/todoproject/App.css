@@ -21,7 +21,7 @@ html {
 
 @media (max-width: 384px) {
   .main-div {
-    height: 100px;
+    height: 10px;
     width: 383px;
   }
 }
