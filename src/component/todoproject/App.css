@@ -13,13 +13,13 @@ html {
 
 .main-div {
   min-height: 100vh;
-  background: red;/*#060822*/
+  background: #060822;/*#060822*/
   display: flex;
   justify-content: center;
   /* align-items: center; */
 }
 
-@media (max-width: 384px) {
+@media (max-width: 300px) {
   .main-div {
     height: 10px;
     width: 383px;
