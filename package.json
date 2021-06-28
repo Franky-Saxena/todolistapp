@@ -1,5 +1,6 @@
 {
   "name": "todoreact",
+  "homepage": "https://franky1999.github.io/todolistapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
